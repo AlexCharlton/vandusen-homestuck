@@ -1,0 +1,11 @@
+;; vandusen-homestuck.setup -*- scheme -*-
+
+(compile -d0 -O2 -J -s vandusen-homestuck.scm)
+(compile -d0 -O2 -s vandusen-homestuck.import.scm)
+
+(install-extension
+ 'vandusen-homestuck
+ '("vandusen-homestuck.so" "vandusen-homestuck.import.so")
+ '((version "0.1.0")))
+
+(copy-file "corpus/character" (make-pathname (chicken-home) "vandusen-homestuck"))

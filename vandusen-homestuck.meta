@@ -1,0 +1,7 @@
+;; vandusen-homestuck.meta -*- scheme -*-
+
+((synopsis "Make vandusen talk like homestuck characters")
+ (author "Alex Charlton")
+ (category networking)
+ (license "BSD")
+ (depends vandusen))
