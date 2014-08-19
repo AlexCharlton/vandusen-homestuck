@@ -29,7 +29,6 @@
     (list-ref (cdr current-corpus) i)))
 
 (define (switch-persona persona)
-  (print (assoc (string-downcase persona) character->handles))
   (if (assoc (string-downcase persona) character->handles)
       (begin
         ($ 'homestuck-character (string-downcase persona))
