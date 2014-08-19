@@ -1,12 +1,12 @@
 
-  
-   
-    
-    TT: I guess.
-
-TT: You win.
-
-TT: I'll keep my promise.
-    
-  
-  
+  <tr>
+  <td width="100%" valign="top"> 
+    <p style=" font-weight: bold; font-family: courier, monospace;color:#000000">
+    <span style="color: #f2a400">TT: I guess.</span>
+<br />
+<span style="color: #f2a400">TT: You win.</span>
+<br />
+<span style="color: #f2a400">TT: I'll keep my promise.</span>
+    </p>
+  </td>
+  </tr>

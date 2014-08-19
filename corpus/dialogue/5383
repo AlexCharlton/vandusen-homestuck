@@ -1,14 +1,14 @@
 
-  
-   
-    
-    TG: oh sup
-
-TG: looks like youre a fairy
-
-AA: yeah
-
-TG: thats cool
-    
-  
-  
+  <tr>
+  <td width="100%" valign="top"> 
+    <p style=" font-weight: bold; font-family: courier, monospace;color:#000000">
+    <span style="color: #e00707">TG: oh sup</span>
+<br />
+<span style="color: #e00707">TG: looks like youre a fairy</span>
+<br />
+<span style="color: #a10000">AA: yeah</span>
+<br />
+<span style="color: #e00707">TG: thats cool</span>
+    </p>
+  </td>
+  </tr>

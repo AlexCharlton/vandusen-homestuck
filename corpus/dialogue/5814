@@ -1,12 +1,12 @@
 
-  
-   
-    
-    AG: She was hurt in an accident.
-
-AG: I killed her myself to put her out of her misery.
-
-GT: :(
-    
-  
-  
+  <tr>
+  <td width="100%" valign="top"> 
+    <p style=" font-weight: bold; font-family: courier, monospace;color:#ffffff">
+    <span style="color: #005682">AG: She was hurt in an accident.</span>
+<br />
+<span style="color: #005682">AG: I killed her myself to put her out of her misery.</span>
+<br />
+<span style="color: #0715cd">GT: :(</span>
+    </p>
+  </td>
+  </tr>

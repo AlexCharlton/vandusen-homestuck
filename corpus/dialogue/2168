@@ -1,28 +1,28 @@
 
-  
-   
-    
-    TT: John, are you ok?
-
-TT: You seem a bit tentative.
-
-EB: i'm fine i guess.
-
-EB: since i got here i feel compelled to do these weird things i don't really want to do.
-
-EB: by some kind of voice that i can't really even hear. i don't know, it is hard to explain.
-
-TT: Perhaps the early symptoms of an anxiety disorder, like post-traumatic stress?
-
-EB: yeah, maybe. who knows!
-
-TT: Well, if you can pull yourself together, there are a few more things we should try.
-
-TT: Like prototyping the Kernelsprite again, if possible.
-
-TT: We should hurry. My laptop battery won't last forever.
-
-EB: Ok. I will go back inside.
-    
-  
-  
+  <tr>
+  <td width="100%" valign="top"> 
+    <p style=" font-weight: bold; font-family: courier, monospace;color:#000000">
+    <span style="color: #b536da">TT: John, are you ok?</span>
+<br />
+<span style="color: #b536da">TT: You seem a bit tentative.</span>
+<br />
+<span style="color: #0715cd">EB: i'm fine i guess.</span>
+<br />
+<span style="color: #0715cd">EB: since i got here i feel compelled to do these weird things i don't really want to do.</span>
+<br />
+<span style="color: #0715cd">EB: by some kind of voice that i can't really even hear. i don't know, it is hard to explain.</span>
+<br />
+<span style="color: #b536da">TT: Perhaps the early symptoms of an anxiety disorder, like post-traumatic stress?</span>
+<br />
+<span style="color: #0715cd">EB: yeah, maybe. who knows!</span>
+<br />
+<span style="color: #b536da">TT: Well, if you can pull yourself together, there are a few more things we should try.</span>
+<br />
+<span style="color: #b536da">TT: Like prototyping the Kernelsprite again, if possible.</span>
+<br />
+<span style="color: #b536da">TT: We should hurry. My laptop battery won't last forever.</span>
+<br />
+<span style="color: #0715cd">EB: Ok. I will go back inside.</span>
+    </p>
+  </td>
+  </tr>

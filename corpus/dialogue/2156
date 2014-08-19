@@ -1,78 +1,78 @@
 
-  
-   
-    
-    TT: John?
-
-TT: Are you there?
-
--- tentacleTherapist [TT] is now an idle chum! --
-
-EB: hey, yeah i'm here!
-
-EB: and not dead i think.
-
-TT: I know.
-
-TT: I've been watching you scramble through the house like a lunatic.
-
-TT: You should have answered me sooner.
-
-EB: oh man, sorry, i was looking around for my dad and i can't find him anywhere!
-
-EB: have you seen him?
-
-TT: No. I'm sure he'll turn up.
-
-TT: We have more important things to address right now.
-
-EB: yeah, like where am i??
-
-TT: I don't know that either. But I've determined your neighborhood was destroyed by the meteor. Wherever you were transported, it saved you from the impact.
-
-TT: I've been reading reports in the news. Over the last few days, there have been many smaller meteor collisions with people's homes around the world.
-
-TT: And they seem to be getting bigger. Yours was the biggest they've identified so far.
-
-EB: wow, ok.
-
-EB: so then i guess if this is all the game's doing, then the point is for us to save the world?
-
-TT: Perhaps.
-
-EB: then we'd better get moving and figure this game out!!!
-
-TT: Yes, but wait.
-
-TT: We should retrieve your PDA. Yet again.
-
-TT: It will help to keep tabs on each other while you investigate.
-
-TT: I think I can get you closer to it, if I can replenish our grist supply somewhat.
-
-TT: There may be a way to recycle some that we already used.
-
-EB: ok.
-
-TT: I'll meet you out on the balcony.
-
-EB: wait, rose! one thing...
-
-TT: What?
-
-EB: you never even wished me a happy birthday!
-
-EB: um... hello?
-
-TT: I was working on something to send you, but I was running late with it.
-
-TT: I didn't want you to think I believed meager well wishes alone would suffice for the occasion.
-
-TT: That said, happy birthday, John.
-
-EB: haha, oh jeez, that is silly!
-
-EB: anyway, thanks!
-    
-  
-  
+  <tr>
+  <td width="100%" valign="top"> 
+    <p style=" font-weight: bold; font-family: courier, monospace;color:#000000">
+    <span style="color: #b536da">TT: John?</span>
+<br />
+<span style="color: #b536da">TT: Are you there?</span>
+<br />
+-- tentacleTherapist <span style="color: #b536da">[TT]</span> is now an idle chum! --
+<br />
+<span style="color: #0715cd">EB: hey, yeah i'm here!</span>
+<br />
+<span style="color: #0715cd">EB: and not dead i think.</span>
+<br />
+<span style="color: #b536da">TT: I know.</span>
+<br />
+<span style="color: #b536da">TT: I've been watching you scramble through the house like a lunatic.</span>
+<br />
+<span style="color: #b536da">TT: You should have answered me sooner.</span>
+<br />
+<span style="color: #0715cd">EB: oh man, sorry, i was looking around for my dad and i can't find him anywhere!</span>
+<br />
+<span style="color: #0715cd">EB: have you seen him?</span>
+<br />
+<span style="color: #b536da">TT: No. I'm sure he'll turn up.</span>
+<br />
+<span style="color: #b536da">TT: We have more important things to address right now.</span>
+<br />
+<span style="color: #0715cd">EB: yeah, like where am i??</span>
+<br />
+<span style="color: #b536da">TT: I don't know that either. But I've determined your neighborhood was destroyed by the meteor. Wherever you were transported, it saved you from the impact.</span>
+<br />
+<span style="color: #b536da">TT: I've been reading reports in the news. Over the last few days, there have been many smaller meteor collisions with people's homes around the world.</span>
+<br />
+<span style="color: #b536da">TT: And they seem to be getting bigger. Yours was the biggest they've identified so far.</span>
+<br />
+<span style="color: #0715cd">EB: wow, ok.</span>
+<br />
+<span style="color: #0715cd">EB: so then i guess if this is all the game's doing, then the point is for us to save the world?</span>
+<br />
+<span style="color: #b536da">TT: Perhaps.</span>
+<br />
+<span style="color: #0715cd">EB: then we'd better get moving and figure this game out!!!</span>
+<br />
+<span style="color: #b536da">TT: Yes, but wait.</span>
+<br />
+<span style="color: #b536da">TT: We should retrieve your PDA. Yet again.</span>
+<br />
+<span style="color: #b536da">TT: It will help to keep tabs on each other while you investigate.</span>
+<br />
+<span style="color: #b536da">TT: I think I can get you closer to it, if I can replenish our grist supply somewhat.</span>
+<br />
+<span style="color: #b536da">TT: There may be a way to recycle some that we already used.</span>
+<br />
+<span style="color: #0715cd">EB: ok.</span>
+<br />
+<span style="color: #b536da">TT: I'll meet you out on the balcony.</span>
+<br />
+<span style="color: #0715cd">EB: wait, rose! one thing...</span>
+<br />
+<span style="color: #b536da">TT: What?</span>
+<br />
+<span style="color: #0715cd">EB: you never even wished me a happy birthday!</span>
+<br />
+<span style="color: #0715cd">EB: um... hello?</span>
+<br />
+<span style="color: #b536da">TT: I was working on something to send you, but I was running late with it.</span>
+<br />
+<span style="color: #b536da">TT: I didn't want you to think I believed meager well wishes alone would suffice for the occasion.</span>
+<br />
+<span style="color: #b536da">TT: That said, happy birthday, John.</span>
+<br />
+<span style="color: #0715cd">EB: haha, oh jeez, that is silly!</span>
+<br />
+<span style="color: #0715cd">EB: anyway, thanks!</span>
+    </p>
+  </td>
+  </tr>

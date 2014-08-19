@@ -1,24 +1,24 @@
 
-  
-   
-    
-    TT: I'm lifting the car up to the balcony.
-
-EB: whoa, ok.
-
-TT: Once it is up, retrieve the game. Then I'll put it back down on the driveway.
-
-EB: but the door is locked!
-
-TT: Then break a window.
-
-EB: but it's my dad's car :(
-
-TT: It's just a window, and this is sort of an emergency.
-
-TT: Otherwise I promise I'll handle the car with velvet gloves.
-
-EB: alright.
-    
-  
-  
+  <tr>
+  <td width="100%" valign="top"> 
+    <p style=" font-weight: bold; font-family: courier, monospace;color:#000000">
+    <span style="color: #b536da">TT: I'm lifting the car up to the balcony.</span>
+<br />
+<span style="color: #0715cd">EB: whoa, ok.</span>
+<br />
+<span style="color: #b536da">TT: Once it is up, retrieve the game. Then I'll put it back down on the driveway.</span>
+<br />
+<span style="color: #0715cd">EB: but the door is locked!</span>
+<br />
+<span style="color: #b536da">TT: Then break a window.</span>
+<br />
+<span style="color: #0715cd">EB: but it's my dad's car :(</span>
+<br />
+<span style="color: #b536da">TT: It's just a window, and this is sort of an emergency.</span>
+<br />
+<span style="color: #b536da">TT: Otherwise I promise I'll handle the car with velvet gloves.</span>
+<br />
+<span style="color: #0715cd">EB: alright.</span>
+    </p>
+  </td>
+  </tr>

@@ -1,16 +1,16 @@
 
-  
-   
-    
-    TT: Is it still going on?
-
-GG: No, it stopped.
-
-TT: What do you think it was?
-
-GG: I don't know. Maybe an earthquake?
-
-TT: I'm not sure if these moons can have earthquakes.
-    
-  
-  
+  <tr>
+  <td width="100%" valign="top"> 
+    <p style=" font-weight: bold; font-family: courier, monospace;color:#000000">
+    <span style="color: #f2a400">TT: Is it still going on?</span>
+<br />
+<span style="color: #00d5f2">GG: No, it stopped.</span>
+<br />
+<span style="color: #f2a400">TT: What do you think it was?</span>
+<br />
+<span style="color: #00d5f2">GG: I don't know. Maybe an earthquake?</span>
+<br />
+<span style="color: #f2a400">TT: I'm not sure if these moons can have earthquakes.</span>
+    </p>
+  </td>
+  </tr>

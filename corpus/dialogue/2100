@@ -1,16 +1,16 @@
 
-  
-   
-    
-    TT: Your dad is getting home.
-
-TT: John?
-
-TT: What did you do with your PDA this time?
-
-TT: I'm working on the bathroom.
-
-TT: But we are running low on Build Grist.
-    
-  
-  
+  <tr>
+  <td width="100%" valign="top"> 
+    <p style=" font-weight: bold; font-family: courier, monospace;color:#000000">
+    <span style="color: #b536da">TT: Your dad is getting home.</span>
+<br />
+<span style="color: #b536da">TT: John?</span>
+<br />
+<span style="color: #b536da">TT: What did you do with your PDA this time?</span>
+<br />
+<span style="color: #b536da">TT: I'm working on the bathroom.</span>
+<br />
+<span style="color: #b536da">TT: But we are running low on Build Grist.</span>
+    </p>
+  </td>
+  </tr>

@@ -1,40 +1,40 @@
 
-  
-   
-    
-    TT: It seems expanding the dimensions of your room cost us some "Build Grist".
-
-TT: But deploying the lathe did not appear to incur any expense.
-
-TT: It looks like certain objects are freebies, probably to help you set up the game.
-
-EB: wow, ok.
-
-EB: what do they do?
-
-TT: I think it's up to you to find out.
-
-TT: All I can do is drop stuff in your house, and move it around, apparently.
-
-EB: how do i move stuff around? it sounds fun!
-
-TT: I don't think you can as the client. You will need to install the server application.
-
-TT: You should have received both in separate envelopes. I am running both on my computer right now.
-
-EB: what??
-
-TT: Did you get another envelope in the mail?
-
-EB: no!
-
-TT: Once you install the server and establish a connection, I'm sure you will be able to manipulate my environment in the same manner.
-
-TT: Are you sure you didn't get it?
-
-EB: oh man.
-
-EB: i think i might know where it is.
-    
-  
-  
+  <tr>
+  <td width="100%" valign="top"> 
+    <p style=" font-weight: bold; font-family: courier, monospace;color:#000000">
+    <span style="color: #b536da">TT: It seems expanding the dimensions of your room cost us some &quot;Build Grist&quot;.</span>
+<br />
+<span style="color: #b536da">TT: But deploying the lathe did not appear to incur any expense.</span>
+<br />
+<span style="color: #b536da">TT: It looks like certain objects are freebies, probably to help you set up the game.</span>
+<br />
+<span style="color: #0715cd">EB: wow, ok.</span>
+<br />
+<span style="color: #0715cd">EB: what do they do?</span>
+<br />
+<span style="color: #b536da">TT: I think it's up to you to find out.</span>
+<br />
+<span style="color: #b536da">TT: All I can do is drop stuff in your house, and move it around, apparently.</span>
+<br />
+<span style="color: #0715cd">EB: how do i move stuff around? it sounds fun!</span>
+<br />
+<span style="color: #b536da">TT: I don't think you can as the client. You will need to install the server application.</span>
+<br />
+<span style="color: #b536da">TT: You should have received both in separate envelopes. I am running both on my computer right now.</span>
+<br />
+<span style="color: #0715cd">EB: what??</span>
+<br />
+<span style="color: #b536da">TT: Did you get another envelope in the mail?</span>
+<br />
+<span style="color: #0715cd">EB: no!</span>
+<br />
+<span style="color: #b536da">TT: Once you install the server and establish a connection, I'm sure you will be able to manipulate my environment in the same manner.</span>
+<br />
+<span style="color: #b536da">TT: Are you sure you didn't get it?</span>
+<br />
+<span style="color: #0715cd">EB: oh man.</span>
+<br />
+<span style="color: #0715cd">EB: i think i might know where it is.</span>
+    </p>
+  </td>
+  </tr>

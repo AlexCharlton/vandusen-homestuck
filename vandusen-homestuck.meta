@@ -4,4 +4,4 @@
  (author "Alex Charlton")
  (category networking)
  (license "BSD")
- (depends vandusen))
+ (depends vandusen irc))

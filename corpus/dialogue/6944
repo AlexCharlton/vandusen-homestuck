@@ -1,12 +1,12 @@
 
-  
-   
-    
-    GG: It'll be fine!
-
-GG: I'm bringing my computer with me. I can tend to Roxy's entry along the way.
-
-TT: This is an atrocious idea.
-    
-  
-  
+  <tr>
+  <td width="100%" valign="top"> 
+    <p style=" font-weight: bold; font-family: courier, monospace;color:#000000">
+    <span style="color: #00d5f2">GG: It'll be fine!</span>
+<br />
+<span style="color: #00d5f2">GG: I'm bringing my computer with me. I can tend to Roxy's entry along the way.</span>
+<br />
+<span style="color: #e00707">TT: This is an atrocious idea.</span>
+    </p>
+  </td>
+  </tr>

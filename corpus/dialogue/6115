@@ -1,10 +1,10 @@
 
-  
-   
-    
-    GG: Jake.
-
-GG: The Page was you.
-    
-  
-  
+  <tr>
+  <td width="100%" valign="top"> 
+    <p style=" font-weight: bold; font-family: courier, monospace;color:#000000">
+    <span style="color: #00d5f2">GG: Jake.</span>
+<br />
+<span style="color: #00d5f2">GG: The Page was you.</span>
+    </p>
+  </td>
+  </tr>

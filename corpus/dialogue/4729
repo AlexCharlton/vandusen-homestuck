@@ -1,12 +1,12 @@
 
-  
-   
-    
-    CT: D --> I think
-
-CT: D --> I need
-
-CT: D --> Something to dry myself off with
-    
-  
-  
+  <tr>
+  <td width="100%" valign="top"> 
+    <p style=" font-weight: bold; font-family: courier, monospace;color:#000000">
+    <span style="color: #000056">CT: D --&gt; I think</span>
+<br />
+<span style="color: #000056">CT: D --&gt; I need</span>
+<br />
+<span style="color: #000056">CT: D --&gt; Something to dry myself off with</span>
+    </p>
+  </td>
+  </tr>

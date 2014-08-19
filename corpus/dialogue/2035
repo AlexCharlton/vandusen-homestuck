@@ -1,36 +1,36 @@
 
-  
-   
-    
-    -- tentacleTherapist [TT] began pestering ectoBiologist [EB] at 17:08 --
+  <tr>
+  <td width="100%" valign="top"> 
+    <p style=" font-weight: bold; font-family: courier, monospace;color:#000000">
+    -- tentacleTherapist <span style="color: #b536da">[TT]</span> began pestering ectoBiologist <span style="color: #0715cd">[EB]</span> at 17:08 --
+<br />
 
-
-
-TT: It looks like you managed to retrieve the beta. Excellent.
-
-TT: I'm going to try to connect.
-
-EB: whoa ok but i just got the most awesome present.
-
-TT: The rabbit?
-
-EB: SO SWEET.
-
-TT: I've heard tales of this wretched creature often. Its Homeric legend is practically ensconced in the fold of my personal mythology by now.
-
-EB: ha ha, what?
-
-TT: Why don't we focus on the matter at hand?
-
-EB: oh the game, ok.
-
-EB: i don't really know how this works. what am i even looking at here?
-
-TT: You are running the client application. I am running the server, so I am the host user. I have established a connection with you. This is sufficient for us to play the game.
-
-EB: oh, ok then.
-
-TT: Why don't we get started?
-    
-  
-  
+<br />
+<span style="color: #b536da">TT: It looks like you managed to retrieve the beta. Excellent.</span>
+<br />
+<span style="color: #b536da">TT: I'm going to try to connect.</span>
+<br />
+<span style="color: #0715cd">EB: whoa ok but i just got the most awesome present.</span>
+<br />
+<span style="color: #b536da">TT: The rabbit?</span>
+<br />
+<span style="color: #0715cd">EB: SO SWEET.</span>
+<br />
+<span style="color: #b536da">TT: I've heard tales of this wretched creature often. Its Homeric legend is practically ensconced in the fold of my personal mythology by now.</span>
+<br />
+<span style="color: #0715cd">EB: ha ha, what?</span>
+<br />
+<span style="color: #b536da">TT: Why don't we focus on the matter at hand?</span>
+<br />
+<span style="color: #0715cd">EB: oh the game, ok.</span>
+<br />
+<span style="color: #0715cd">EB: i don't really know how this works. what am i even looking at here?</span>
+<br />
+<span style="color: #b536da">TT: You are running the client application. I am running the server, so I am the host user. I have established a connection with you. This is sufficient for us to play the game.</span>
+<br />
+<span style="color: #0715cd">EB: oh, ok then.</span>
+<br />
+<span style="color: #b536da">TT: Why don't we get started?</span>
+    </p>
+  </td>
+  </tr>

@@ -1,14 +1,14 @@
 
-  
-   
-    
-    EB: what was that noise?
-
-EB: is this something i should go investigate?
-
-TT: No, I have it under control.
-
-TT: You can keep playing with your telescope.
-    
-  
-  
+  <tr>
+  <td width="100%" valign="top"> 
+    <p style=" font-weight: bold; font-family: courier, monospace;color:#000000">
+    <span style="color: #0715cd">EB: what was that noise?</span>
+<br />
+<span style="color: #0715cd">EB: is this something i should go investigate?</span>
+<br />
+<span style="color: #b536da">TT: No, I have it under control.</span>
+<br />
+<span style="color: #b536da">TT: You can keep playing with your telescope.</span>
+    </p>
+  </td>
+  </tr>

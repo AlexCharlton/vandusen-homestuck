@@ -1,10 +1,10 @@
 
-  
-   
-    
-    AA: i am very much alive
-
-AA: and i intend to stay that way :)
-    
-  
-  
+  <tr>
+  <td width="100%" valign="top"> 
+    <p style=" font-weight: bold; font-family: courier, monospace;color:#000000">
+    <span style="color: #a10000">AA: i am very much alive</span>
+<br />
+<span style="color: #a10000">AA: and i intend to stay that way :)</span>
+    </p>
+  </td>
+  </tr>

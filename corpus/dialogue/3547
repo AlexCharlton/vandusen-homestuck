@@ -1,16 +1,16 @@
 
-  
-   
-    
-    TG: WAIT
-
-EB: what?
-
-TG: dont go yet
-
-TG: somethings up
-
-EB: ugh...
-    
-  
-  
+  <tr>
+  <td width="100%" valign="top"> 
+    <p style=" font-weight: bold; font-family: courier, monospace;color:#000000">
+    <span style="color: #e00707">TG: WAIT</span>
+<br />
+<span style="color: #0715cd">EB: what?</span>
+<br />
+<span style="color: #e00707">TG: dont go yet</span>
+<br />
+<span style="color: #e00707">TG: somethings up</span>
+<br />
+<span style="color: #0715cd">EB: ugh...</span>
+    </p>
+  </td>
+  </tr>

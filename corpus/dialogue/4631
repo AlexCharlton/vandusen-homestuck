@@ -1,16 +1,16 @@
 
-  
-   
-    
-    TT: What do you know about the ?
-
-GA: Ive Never Heard Of It
-
-TT: Thank you.
-
-TT: The transaction was very tidy.
-
-GA: Agreed
-    
-  
-  
+  <tr>
+  <td width="100%" valign="top"> 
+    <p style=" font-weight: bold; font-family: courier, monospace;color:#000000">
+    <span style="color: #b536da">TT: What do you know about the <img src="http://www.mspaintadventures.com/storyfiles/hs2/scraps/greensun.gif" border="0" />?</span>
+<br />
+<span style="color: #008141">GA: Ive Never Heard Of It</span>
+<br />
+<span style="color: #b536da">TT: Thank you.</span>
+<br />
+<span style="color: #b536da">TT: The transaction was very tidy.</span>
+<br />
+<span style="color: #008141">GA: Agreed</span>
+    </p>
+  </td>
+  </tr>

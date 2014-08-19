@@ -1,16 +1,16 @@
 
-  
-   
-    
-    AA: there was another fragment
-
-AA: oh?
-
-AA: yes
-
-AA: an additional eight symbols
-
-AA: from a wild card source i suppose
-    
-  
-  
+  <tr>
+  <td width="100%" valign="top"> 
+    <p style=" font-weight: bold; font-family: courier, monospace;color:#000000">
+    <span style="color: #000056">AA: there was another fragment</span>
+<br />
+<span style="color: #a10000">AA: oh?</span>
+<br />
+<span style="color: #000056">AA: yes</span>
+<br />
+<span style="color: #000056">AA: an additional eight symbols</span>
+<br />
+<span style="color: #000056">AA: from a wild card source i suppose</span>
+    </p>
+  </td>
+  </tr>

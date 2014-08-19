@@ -1,18 +1,18 @@
 
-  
-   
-    
-    TT: Have you and Roxy been talking?
-
-GG: Yes.
-
-TT: Is she pissed at me or something?
-
-TT: She won't talk to me.
-
-GG: No, not at all.
-
-TT: Then what gives.
-    
-  
-  
+  <tr>
+  <td width="100%" valign="top"> 
+    <p style=" font-weight: bold; font-family: courier, monospace;color:#000000">
+    <span style="color: #f2a400">TT: Have you and Roxy been talking?</span>
+<br />
+<span style="color: #00d5f2">GG: Yes.</span>
+<br />
+<span style="color: #f2a400">TT: Is she pissed at me or something?</span>
+<br />
+<span style="color: #f2a400">TT: She won't talk to me.</span>
+<br />
+<span style="color: #00d5f2">GG: No, not at all.</span>
+<br />
+<span style="color: #f2a400">TT: Then what gives.</span>
+    </p>
+  </td>
+  </tr>

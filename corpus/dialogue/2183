@@ -1,44 +1,44 @@
 
-  
-   
-    
-    EB: aw man, where'd it go?
-
-TT: I can't find it anywhere in the house.
-
-TT: No time to worry about it.
-
-TT: The next thing we should do is get your server copy of the game from the car.
-
-TT: You need to connect to my client, so I can repeat your steps and presumably join you, wherever you are.
-
-TT: We should do this quickly, before my house burns down.
-
-EB: what, there's a fire??
-
-TT: There will be soon.
-
-EB: oh jeez!
-
-EB: so move this thing already!
-
-TT: It looks like it requires a lot of grist to move.
-
-TT: I don't have enough to relocate the door, either.
-
-EB: how much do you have?
-
-TT: Zero.
-
-EB: oh.
-
-EB: hmm.
-
-EB: i thought about jumping to the car from the ledge earlier but that sounds really dangerous!
-
-TT: I have a better idea.
-
-TT: Meet me upstairs.
-    
-  
-  
+  <tr>
+  <td width="100%" valign="top"> 
+    <p style=" font-weight: bold; font-family: courier, monospace;color:#000000">
+    <span style="color: #0715cd">EB: aw man, where'd it go?</span>
+<br />
+<span style="color: #b536da">TT: I can't find it anywhere in the house.</span>
+<br />
+<span style="color: #b536da">TT: No time to worry about it.</span>
+<br />
+<span style="color: #b536da">TT: The next thing we should do is get your server copy of the game from the car.</span>
+<br />
+<span style="color: #b536da">TT: You need to connect to my client, so I can repeat your steps and presumably join you, wherever you are.</span>
+<br />
+<span style="color: #b536da">TT: We should do this quickly, before my house burns down.</span>
+<br />
+<span style="color: #0715cd">EB: what, there's a fire??</span>
+<br />
+<span style="color: #b536da">TT: There will be soon.</span>
+<br />
+<span style="color: #0715cd">EB: oh jeez!</span>
+<br />
+<span style="color: #0715cd">EB: so move this thing already!</span>
+<br />
+<span style="color: #b536da">TT: It looks like it requires a lot of grist to move.</span>
+<br />
+<span style="color: #b536da">TT: I don't have enough to relocate the door, either.</span>
+<br />
+<span style="color: #0715cd">EB: how much do you have?</span>
+<br />
+<span style="color: #b536da">TT: Zero.</span>
+<br />
+<span style="color: #0715cd">EB: oh.</span>
+<br />
+<span style="color: #0715cd">EB: hmm.</span>
+<br />
+<span style="color: #0715cd">EB: i thought about jumping to the car from the ledge earlier but that sounds really dangerous!</span>
+<br />
+<span style="color: #b536da">TT: I have a better idea.</span>
+<br />
+<span style="color: #b536da">TT: Meet me upstairs.</span>
+    </p>
+  </td>
+  </tr>

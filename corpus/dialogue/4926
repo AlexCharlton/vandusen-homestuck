@@ -1,40 +1,40 @@
 
-  
-   
-    
-    GG: what does this thing do?
-
-TG: its mostly pretty stupid and useless
-
-TG: but itll come in handy here
-
-TG: it reads captcha codes
-
-GG: on the back of cards?
-
-TG: yeah
-
-GG: but
-
-GG: we can already read those!
-
-TG: some are too garbled and complicated
-
-TG: the human eye cant decipher them
-
-TG: needs sophisticated scanning technology
-
-TG: and artificial intelligence to figure it out
-
-GG: hmm
-
-GG: but isnt the whole point of captchas that only humans can read them?
-
-GG: and not robots???
-
-TG: yeah well
-
-TG: thats why this is so dumb
-    
-  
-  
+  <tr>
+  <td width="100%" valign="top"> 
+    <p style=" font-weight: bold; font-family: courier, monospace;color:#000000">
+    <span style="color: #4ac925">GG: what does this thing do?</span>
+<br />
+<span style="color: #e00707">TG: its mostly pretty stupid and useless</span>
+<br />
+<span style="color: #e00707">TG: but itll come in handy here</span>
+<br />
+<span style="color: #e00707">TG: it reads captcha codes</span>
+<br />
+<span style="color: #4ac925">GG: on the back of cards?</span>
+<br />
+<span style="color: #e00707">TG: yeah</span>
+<br />
+<span style="color: #4ac925">GG: but</span>
+<br />
+<span style="color: #4ac925">GG: we can already read those!</span>
+<br />
+<span style="color: #e00707">TG: some are too garbled and complicated</span>
+<br />
+<span style="color: #e00707">TG: the human eye cant decipher them</span>
+<br />
+<span style="color: #e00707">TG: needs sophisticated scanning technology</span>
+<br />
+<span style="color: #e00707">TG: and artificial intelligence to figure it out</span>
+<br />
+<span style="color: #4ac925">GG: hmm</span>
+<br />
+<span style="color: #4ac925">GG: but isnt the whole point of captchas that only humans can read them?</span>
+<br />
+<span style="color: #4ac925">GG: and not robots???</span>
+<br />
+<span style="color: #e00707">TG: yeah well</span>
+<br />
+<span style="color: #e00707">TG: thats why this is so dumb</span>
+    </p>
+  </td>
+  </tr>

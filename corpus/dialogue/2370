@@ -1,16 +1,16 @@
 
-  
-   
-    
-    TT: John, what are you doing?
-
-TT: Snap out of it.
-
-TT: We ought to discuss what your grandmother told you, don't you think?
-
-TT: Fine. Enjoy your stupor.
-
-TT: I'll go about my business elsewhere.
-    
-  
-  
+  <tr>
+  <td width="100%" valign="top"> 
+    <p style=" font-weight: bold; font-family: courier, monospace;color:#000000">
+    <span style="color: #b536da">TT: John, what are you doing?</span>
+<br />
+<span style="color: #b536da">TT: Snap out of it.</span>
+<br />
+<span style="color: #b536da">TT: We ought to discuss what your grandmother told you, don't you think?</span>
+<br />
+<span style="color: #b536da">TT: Fine. Enjoy your stupor.</span>
+<br />
+<span style="color: #b536da">TT: I'll go about my business elsewhere.</span>
+    </p>
+  </td>
+  </tr>

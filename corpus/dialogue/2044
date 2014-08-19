@@ -1,20 +1,20 @@
 
-  
-   
-    
-    EB: hey, do you think you could do me a favor?
-
-EB: can you grab all that stuff outside my broken window and bring it in for me?
-
-TT: I'll give it a shot.
-
-EB: thx!
-
-TT: No luck.
-
-TT: It appears to be out of range. I'm guessing it is too far away from you, the "player".
-
-EB: :C
-    
-  
-  
+  <tr>
+  <td width="100%" valign="top"> 
+    <p style=" font-weight: bold; font-family: courier, monospace;color:#000000">
+    <span style="color: #0715cd">EB: hey, do you think you could do me a favor?</span>
+<br />
+<span style="color: #0715cd">EB: can you grab all that stuff outside my broken window and bring it in for me?</span>
+<br />
+<span style="color: #b536da">TT: I'll give it a shot.</span>
+<br />
+<span style="color: #0715cd">EB: thx!</span>
+<br />
+<span style="color: #b536da">TT: No luck.</span>
+<br />
+<span style="color: #b536da">TT: It appears to be out of range. I'm guessing it is too far away from you, the &quot;player&quot;.</span>
+<br />
+<span style="color: #0715cd">EB: :C</span>
+    </p>
+  </td>
+  </tr>

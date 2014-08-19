@@ -1,24 +1,24 @@
 
-  
-   
-    
-    GG: Oh gosh. Another large contraption!
-
-TT: Now, Jane. Get to the computer in the study and ditch that tiara.
-
-TT: Go go go.
-
-GG: Okay.
-
-GG: Say, what's with the red text, Dirk?
-
-GG: Are you typing your most important instructions in red now?
-
-TT: Yes.
-
-TT: No.
-
-GG: ...
-    
-  
-  
+  <tr>
+  <td width="100%" valign="top"> 
+    <p style=" font-weight: bold; font-family: courier, monospace;color:#000000">
+    <span style="color: #00d5f2">GG: Oh gosh. Another large contraption!</span>
+<br />
+<span style="color: #f2a400">TT: Now, Jane. Get to the computer in the study and ditch that tiara.</span>
+<br />
+<span style="color: #e00707">TT: Go go go.</span>
+<br />
+<span style="color: #00d5f2">GG: Okay.</span>
+<br />
+<span style="color: #00d5f2">GG: Say, what's with the red text, Dirk?</span>
+<br />
+<span style="color: #00d5f2">GG: Are you typing your most important instructions in red now?</span>
+<br />
+<span style="color: #e00707">TT: Yes.</span>
+<br />
+<span style="color: #f2a400">TT: No.</span>
+<br />
+<span style="color: #00d5f2">GG: ...</span>
+    </p>
+  </td>
+  </tr>

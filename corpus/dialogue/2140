@@ -1,38 +1,38 @@
 
-  
-   
-    
-    TT: I'm back.
-
-EB: hurry up and open my door!!!!!!
-
-EB: not that it even matters, i think i'm probably dead no matter what!!!!!!
-
-TT: Patience. You still haven't used the new totem.
-
-EB: ???
-
-TT: I believe it will create the item on the punch card.
-
-EB: so what is it, like an apple or something?
-
-EB: what good will that even do?
-
-TT: We'll see.
-
-TT: I've found no evidence that anyone has successfully created the item.
-
-TT: And the content of the card appears to be variable from session to session.
-
-TT: In one instance it was described as an "eggy loking thign" [sic].
-
-EB: do we have enough of those building jewels to make it?
-
-TT: According to the Atheneum, it is a free item.
-
-TT: This speaks to its importance, in my view.
-
-TT: Now off you go.
-    
-  
-  
+  <tr>
+  <td width="100%" valign="top"> 
+    <p style=" font-weight: bold; font-family: courier, monospace;color:#000000">
+    <span style="color: #b536da">TT: I'm back.</span>
+<br />
+<span style="color: #0715cd">EB: hurry up and open my door!!!!!!</span>
+<br />
+<span style="color: #0715cd">EB: not that it even matters, i think i'm probably dead no matter what!!!!!!</span>
+<br />
+<span style="color: #b536da">TT: Patience. You still haven't used the new totem.</span>
+<br />
+<span style="color: #0715cd">EB: ???</span>
+<br />
+<span style="color: #b536da">TT: I believe it will create the item on the punch card.</span>
+<br />
+<span style="color: #0715cd">EB: so what is it, like an apple or something?</span>
+<br />
+<span style="color: #0715cd">EB: what good will that even do?</span>
+<br />
+<span style="color: #b536da">TT: We'll see.</span>
+<br />
+<span style="color: #b536da">TT: I've found no evidence that anyone has successfully created the item.</span>
+<br />
+<span style="color: #b536da">TT: And the content of the card appears to be variable from session to session.</span>
+<br />
+<span style="color: #b536da">TT: In one instance it was described as an &quot;eggy loking thign&quot; [sic].</span>
+<br />
+<span style="color: #0715cd">EB: do we have enough of those building jewels to make it?</span>
+<br />
+<span style="color: #b536da">TT: According to the Atheneum, it is a free item.</span>
+<br />
+<span style="color: #b536da">TT: This speaks to its importance, in my view.</span>
+<br />
+<span style="color: #b536da">TT: Now off you go.</span>
+    </p>
+  </td>
+  </tr>

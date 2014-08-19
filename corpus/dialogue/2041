@@ -1,18 +1,18 @@
 
-  
-   
-    
-    EB: whoa, what are you doing??
-
-TT: Sorry. I'm just getting a feel for the controls.
-
-EB: is my magic chest on the roof now??
-
-TT: Yes.
-
-EB: :(
-
-TT: I will try to be more careful next time.
-    
-  
-  
+  <tr>
+  <td width="100%" valign="top"> 
+    <p style=" font-weight: bold; font-family: courier, monospace;color:#000000">
+    <span style="color: #0715cd">EB: whoa, what are you doing??</span>
+<br />
+<span style="color: #b536da">TT: Sorry. I'm just getting a feel for the controls.</span>
+<br />
+<span style="color: #0715cd">EB: is my magic chest on the roof now??</span>
+<br />
+<span style="color: #b536da">TT: Yes.</span>
+<br />
+<span style="color: #0715cd">EB: :(</span>
+<br />
+<span style="color: #b536da">TT: I will try to be more careful next time.</span>
+    </p>
+  </td>
+  </tr>

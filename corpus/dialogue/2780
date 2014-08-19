@@ -1,44 +1,44 @@
 
-  
-   
-    
-    TT: Good work, John!
-
-EB: oh, hey!
-
-EB: you're back.
-
-TT: For now. I'll have to leave again shortly.
-
-TT: It looks like there's another large meteor headed for...
-
-TT: My present location.
-
-EB: oh, so you mean dave connected with you?
-
-TT: Not yet.
-
-TT: I'll explain later.
-
-TT: But I think I've determined that activating the timer in the game is not directly responsible for summoning a meteor to your location.
-
-TT: The countdown seems merely to exist as a kind of warning to the player.
-
-TT: As well as a strange coincidence.
-
-EB: um, ok.
-
-EB: i don't really think i get it.
-
-EB: is this relevant?
-
-TT: Probably not at the moment. And certainly not to you.
-
-TT: I have to go.
-
-EB: ok, later!
-
-TT: P.S. Try not to waste too much of that grist while I'm gone.
-    
-  
-  
+  <tr>
+  <td width="100%" valign="top"> 
+    <p style=" font-weight: bold; font-family: courier, monospace;color:#000000">
+    <span style="color: #b536da">TT: Good work, John!</span>
+<br />
+<span style="color: #0715cd">EB: oh, hey!</span>
+<br />
+<span style="color: #0715cd">EB: you're back.</span>
+<br />
+<span style="color: #b536da">TT: For now. I'll have to leave again shortly.</span>
+<br />
+<span style="color: #b536da">TT: It looks like there's another large meteor headed for...</span>
+<br />
+<span style="color: #b536da">TT: My present location.</span>
+<br />
+<span style="color: #0715cd">EB: oh, so you mean dave connected with you?</span>
+<br />
+<span style="color: #b536da">TT: Not yet.</span>
+<br />
+<span style="color: #b536da">TT: I'll explain later.</span>
+<br />
+<span style="color: #b536da">TT: But I think I've determined that activating the timer in the game is not directly responsible for summoning a meteor to your location.</span>
+<br />
+<span style="color: #b536da">TT: The countdown seems merely to exist as a kind of warning to the player.</span>
+<br />
+<span style="color: #b536da">TT: As well as a strange coincidence.</span>
+<br />
+<span style="color: #0715cd">EB: um, ok.</span>
+<br />
+<span style="color: #0715cd">EB: i don't really think i get it.</span>
+<br />
+<span style="color: #0715cd">EB: is this relevant?</span>
+<br />
+<span style="color: #b536da">TT: Probably not at the moment. And certainly not to you.</span>
+<br />
+<span style="color: #b536da">TT: I have to go.</span>
+<br />
+<span style="color: #0715cd">EB: ok, later!</span>
+<br />
+<span style="color: #b536da">TT: P.S. Try not to waste too much of that grist while I'm gone.</span>
+    </p>
+  </td>
+  </tr>

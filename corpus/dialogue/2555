@@ -1,14 +1,14 @@
 
-  
-   
-    
-    -- tentacleTherapist [TT] ceased pestering ectoBiologist [EB] at ??:?? --
-
-EB: rose, why aren't you dropping something on that thing??
-
-EB: oh no
-
-EB: D:
-    
-  
-  
+  <tr>
+  <td width="100%" valign="top"> 
+    <p style=" font-weight: bold; font-family: courier, monospace;color:#000000">
+    -- tentacleTherapist <span style="color: #b536da">[TT]</span> ceased pestering ectoBiologist <span style="color: #0715cd">[EB]</span> at ??:?? --
+<br />
+<span style="color: #0715cd">EB: rose, why aren't you dropping something on that thing??</span>
+<br />
+<span style="color: #0715cd">EB: oh no</span>
+<br />
+<span style="color: #0715cd">EB: D:</span>
+    </p>
+  </td>
+  </tr>

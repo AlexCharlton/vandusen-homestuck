@@ -1,12 +1,12 @@
 
-  
-   
-    
-    timaeusTestified [TT] began pestering gutsyGumshoe [GG]
-
-TT: Jane.
-
-GG: What.
-    
-  
-  
+  <tr>
+  <td width="100%" valign="top"> 
+    <p style=" font-weight: bold; font-family: courier, monospace;color:#000000">
+    <span style="color: #f2a400">timaeusTestified [TT]</span> began pestering <span style="color: #00d5f2">gutsyGumshoe [GG]</span>
+<br />
+<span style="color: #f2a400">TT: Jane.</span>
+<br />
+<span style="color: #00d5f2">GG: What.</span>
+    </p>
+  </td>
+  </tr>

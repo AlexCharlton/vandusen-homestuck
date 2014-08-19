@@ -1,12 +1,12 @@
 
-  
-   
-    
-    TT: Here, check it out.
-
-TT: Dude, what are you doing?
-
-TT: I'm proposing a distraction.
-    
-  
-  
+  <tr>
+  <td width="100%" valign="top"> 
+    <p style=" font-weight: bold; font-family: courier, monospace;color:#000000">
+    <span style="color: #e00707">TT: Here, check it out.</span>
+<br />
+<span style="color: #f2a400">TT: Dude, what are you doing?</span>
+<br />
+<span style="color: #e00707">TT: I'm proposing a distraction.</span>
+    </p>
+  </td>
+  </tr>
