@@ -29,12 +29,8 @@
     (list-ref (cdr current-corpus) i)))
 
 (define (switch-persona persona)
-  (if (assoc persona character->handles)
-      (begin
-        ($ 'homestuck-character (string-downcase persona))
-        ($ 'nick (string-append ($ 'homestuck-character)
-                                ($ 'nick-suffix)))
-        (call-with-connection (cut irc:nick <> ($ 'nick))))
+  (if (assoc (string-downcase persona) character->handles)
+      ($ 'homestuck-character (string-downcase persona))
       (begin (say (string-append "I don't know who " persona " is."))
              #f)))
 
