@@ -29,10 +29,12 @@
     (list-ref (cdr current-corpus) i)))
 
 (define (switch-persona persona)
+  (print (assoc (string-downcase persona) character->handles))
   (if (assoc (string-downcase persona) character->handles)
-      ($ 'homestuck-character (string-downcase persona))
-      (begin (say (string-append "I don't know who " persona " is."))
-             #f)))
+      (begin
+        ($ 'homestuck-character (string-downcase persona))
+        (say (random-homestuck-line)))
+      (say (string-append "I don't know who " persona " is."))))
 
 (plugin 'homestuck
   (lambda ()
@@ -42,10 +44,9 @@
                (reply-to message (random-homestuck-line)))
              public: #t)
     (command 'persona
-             '(: "persona" (? ":") (+ space) (submatch (+ alpha)))
+             '(: "persona" (? ":") (+ space) (submatch (+ any)))
              (lambda (msg character)
-               (when (switch-persona character)
-                 (say (random-homestuck-line)))))
+               (switch-persona character)))
     (command 'personas
              '(: "personas")
              (lambda (msg)
