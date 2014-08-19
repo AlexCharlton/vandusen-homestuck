@@ -6,6 +6,6 @@
 (install-extension
  'vandusen-homestuck
  '("vandusen-homestuck.so" "vandusen-homestuck.import.so")
- '((version "0.1.0")))
+ '((version "0.2.0")))
 
 (copy-file "corpus/character" (make-pathname (chicken-home) "vandusen-homestuck"))
