@@ -52,6 +52,9 @@ This example can be run with `vandusen example-config.scm`
 ```
 
 ## Version history
+### Version 0.3.0
+* Nick changing
+
 ### Version 0.2.0
 * Fixed corpus
 * Added `persona`, `personas`, `cite` commands
