@@ -29,9 +29,14 @@
     (list-ref (cdr current-corpus) i)))
 
 (define (switch-persona persona)
+  (define (sanitize s)
+    (string-join (string-tokenize (string-downcase s))
+                 ""))
   (if (assoc (string-downcase persona) character->handles)
       (begin
         ($ 'homestuck-character (string-downcase persona))
+        (set-nick! (string-append (sanitize persona)
+                                  ($ 'nick-suffix)))
         (say (random-homestuck-line)))
       (say (string-append "I don't know who " persona " is."))))
 
@@ -58,6 +63,7 @@
                  (reply-to msg (string-append
                                 "http://www.mspaintadventures.com/?s=6&p=00"
                                 source)))))
+    (after-connect (lambda () (switch-persona ($ 'homestuck-character))))
     ))
 
 ) ;end vandusen-homestuck

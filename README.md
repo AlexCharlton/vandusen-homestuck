@@ -17,6 +17,7 @@ If you want to update the corpus (for any reason), you should delete the `corpus
 Aside from needing to be included in your vandusen config file, vandusen-homestuck introduces one new vandusen variable:
 
 - `homestuck-character`: The name of your desired character.
+- `nick-suffix`: The suffix that gets added to the nick of the desired character when switched with `persona`
 
 ### vandusen commands
     persona <character>
@@ -43,7 +44,8 @@ This example can be run with `vandusen example-config.scm`
 (config `((host . "localhost")
           (channels "#test")
           (homestuck-character . "dirk")
-          (nick . "dirkvandusen")
+          (nick-suffix . "vandusen")
+          (nick . "aUniqueNameThatWillChange")
           (random-talk-delay . 20)
           (random-talk . ,(lambda ()
                             (random-homestuck-line)))))
