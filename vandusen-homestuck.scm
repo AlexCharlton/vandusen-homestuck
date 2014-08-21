@@ -55,14 +55,16 @@
              '(: "personas")
              (lambda (msg)
                (reply-to msg (string-join (map car character->handles)
-                                          ", "))))
+                                          ", ")))
+             public: #t)
     (command 'cite
              '(: "cite")
              (lambda (msg)
                (when source
                  (reply-to msg (string-append
                                 "http://www.mspaintadventures.com/?s=6&p=00"
-                                source)))))
+                                source))))
+             public: #t)
     (after-connect (lambda () (switch-persona ($ 'homestuck-character))))
     ))
 
