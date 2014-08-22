@@ -22,10 +22,10 @@
      "KANAYA-008141")
     ("gamzee" "GAMZEE-2b0057" "PTC-2b0057" "TC-2b0057"
      "TC-4200b0" "FTC-2b0057")
-    ("nepta" "AC-416600" "CAC-416600" "FAC-416600")
+    ("nepeta" "AC-416600" "CAC-416600" "FAC-416600")
     ("terezi" "GC-008282" "FGC-008282" "PGC-008282"
      "TEREZI-008282")
-    ("solux" "PTA-a1a100" "CTA-a1a100" "SOLLUX-a1a100"
+    ("sollux" "PTA-a1a100" "CTA-a1a100" "SOLLUX-a1a100"
      "TA-a1a100")
     ("jake" "GT-1f9400" "JAKE-1f9400")
     ("john" "GT-0715cd" "JOHN-0715cd" "EB-0715cd"

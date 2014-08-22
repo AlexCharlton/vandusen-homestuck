@@ -82,5 +82,5 @@
                         (loop (irregex-match-end-index m)))))))
               files)))
 
-;(fetch-all-dialogue)
+(fetch-all-dialogue)
 (dialogues->characters)
